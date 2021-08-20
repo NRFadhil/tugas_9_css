@@ -1,0 +1,17 @@
+body {
+  background: url("laut.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: scroll;
+}
+
+div {
+  width: 800px;
+  height: 700px;
+  background-color: white;
+  float: right;
+  text-align: right;
+  position: static;
+  z-index: auto;
+  font-weight: bold;
+}
